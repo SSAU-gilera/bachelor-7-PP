@@ -1,0 +1,5 @@
+﻿  AlgPosl.cpp
+C:\Users\Lera\Desktop\University\Study\7\PP\kursach\AlgPosl\AlgPosl.cpp(9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Lera\Desktop\University\Study\7\PP\kursach\AlgPosl\AlgPosl.cpp(12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Lera\Desktop\University\Study\7\PP\kursach\AlgPosl\AlgPosl.cpp(79): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  AlgPosl.vcxproj -> C:\Users\Lera\Desktop\University\Study\7\PP\kursach\AlgPosl\Debug\AlgPosl.exe

@@ -1,0 +1,5 @@
+﻿  1lab_OpenMP.cpp
+C:\Users\Lera\Desktop\University\Study\7\PP\lab1\1lab_OpenMP\1lab_OpenMP.cpp(13): warning C4101: k: неиспользованная локальная переменная
+C:\Users\Lera\Desktop\University\Study\7\PP\lab1\1lab_OpenMP\1lab_OpenMP.cpp(13): warning C4101: i: неиспользованная локальная переменная
+C:\Users\Lera\Desktop\University\Study\7\PP\lab1\1lab_OpenMP\1lab_OpenMP.cpp(13): warning C4101: j: неиспользованная локальная переменная
+  1lab_OpenMP.vcxproj -> C:\Users\Lera\Desktop\University\Study\7\PP\lab1\1lab_OpenMP\Debug\1lab_OpenMP.exe

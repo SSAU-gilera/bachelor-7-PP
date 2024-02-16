@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (1lab.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  HelloMPI.cpp
+  1lab_MPI.vcxproj -> C:\Users\Lera\Desktop\University\Study\7\PP\lab1\1lab_MPI\Debug\1lab_MPI.exe

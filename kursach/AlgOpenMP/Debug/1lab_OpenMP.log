@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (1lab_OpenMP.vcxproj, 2lab_OpenMP.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  AlgOpenMP.cpp
+C:\Users\Lera\Desktop\University\Study\7\PP\kursach\AlgOpenMP\AlgOpenMP.cpp(11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Lera\Desktop\University\Study\7\PP\kursach\AlgOpenMP\AlgOpenMP.cpp(14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Lera\Desktop\University\Study\7\PP\kursach\AlgOpenMP\AlgOpenMP.cpp(84): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  1lab_OpenMP.vcxproj -> C:\Users\Lera\Desktop\University\Study\7\PP\kursach\AlgOpenMP\Debug\AlgOpenMP.exe

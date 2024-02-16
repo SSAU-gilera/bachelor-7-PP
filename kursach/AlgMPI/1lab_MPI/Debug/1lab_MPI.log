@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (1lab.vcxproj, 1lab_MPI.vcxproj, 2lab_MPI.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  HelloMPI.cpp
+C:\Users\Lera\Desktop\University\Study\7\PP\kursach\AlgMPI\1lab_MPI\HelloMPI.cpp(10,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Lera\Desktop\University\Study\7\PP\kursach\AlgMPI\1lab_MPI\HelloMPI.cpp(13,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Lera\Desktop\University\Study\7\PP\kursach\AlgMPI\1lab_MPI\HelloMPI.cpp(63,13): warning C4101: status: неиспользованная локальная переменная
+C:\Users\Lera\Desktop\University\Study\7\PP\kursach\AlgMPI\1lab_MPI\HelloMPI.cpp(127,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  1lab_MPI.vcxproj -> C:\Users\Lera\Desktop\University\Study\7\PP\kursach\AlgMPI\Debug\AlgMPI.exe
